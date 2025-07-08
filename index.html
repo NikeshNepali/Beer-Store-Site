@@ -1,22 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- Meta data description -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="alcohol" content="Barhasinghe Beer">
     <meta name="description" content="This is official page of barhasinghe beer">
-    <title>Barhasinghe Beer</title>
-    <link rel="icon" href="image/barahsinghe_logo.png" type="x-icon">
-    <link rel="stylesheet" href="css/nik.css">
+    <title>Barhasinghe Beer</title> <!-- Shows the title of the pages. -->
+    <link rel="icon" href="image/barahsinghe_logo.png" type="x-icon"> <!-- Shows the logo of the page -->
+    <link rel="stylesheet" href="css/nik.css"> <!-- Linking the html file with css -->
 </head>
 
 <body>
+    <!-- Header information of the data. -->
     <header class="header">
         <h1 class="header__h1">Barhasinghe Beer</h1>
  <!-- <nav aria-label="primary-navigation"> -->
+    <!--  Use of Nav to make the navigation. -->
         <nav class="header__nav">
+            <!-- Use of unorder list -->
             <ul class="header__ul">
                 <li>
+                    <!-- Using a href to link and navigate to the pages. -->
                     <a href="#OurMenu">Menu</a>
                 </li>
                 <li>
@@ -32,10 +37,13 @@
         </nav>
     </header>
 
+    <!-- This is another section to include the main body items. -->
     <section class="hero">
         <h2 class="hero__h2">Welcome!</h2>
         <figure>
+            <!-- Display of image. -->
             <img src="image/1000x1000.jpeg" alt="Beer" title="We Love beer" width="1000" height="667">
+            <!-- Fig caption to decribe the image. -->
             <figcaption class="offsceen">Tastes the best</figcaption>
         </figure>
     </section>
@@ -44,20 +52,27 @@
             <p><span class="nowrap">Copyright &copy;</span> <span class="nowrap">Barhasinghe Beer</span></p>
         </footer> -->
         
+    <!-- Use of main to show the menus-->    
     <main class="main">
+
         <article id="OurMenu" class="main__article menu">
             <h2 class="menu__h2">Our Menu</h2>
+            <!-- Use of html table. -->
             <table class="menu__container">
                 <caption class="offsceen">Our Beer</caption>
+                <!-- Table header. -->
                 <thead>
                 <tr>
+                    <!-- Inserting datas inside table header. -->
                     <th class="menu__header" scope="col">Flavours</th>
                     <th class="menu__header" scope="col">Liters</th>
                     <th class="menu__header" scope="col">Price</th>
                 </tr>
                 </thead>
+                <!-- Table body -->
                 <tbody>
                 <tr>
+                    <!-- Inserting data inside table body. -->
                     <th class="menu__items menu__gin" scope="row" rowspan="3">Ginger</th>
                     <td class="menu__items">1 litere</td>
                     <td class="menu__items">200</td>
@@ -97,6 +112,7 @@
                     <td class="menu__items">900</td>
                 </tr>
                 </tbody>
+                <!-- Designing the table footer. -->
                 <tfoot>
                     <tr>
                         <td class="menu__items menu__cs" colspan="3">Chips &amp; Sekuwa 1000</td>
@@ -104,11 +120,13 @@
                 </tfoot>
                 </table>
                 <p class="center">
+                    <!-- Link to go back to top. -->
                     <a href="#">Back to top</a>
                 </p>
         </article>
     </main>
 
+    <!-- Fotter section to show the copyright symbol. -->
     <footer class="footer">
         <p><span class="nowrap">Copyright &copy;</span> <span class="nowrap">Barhasinghe Beer</span></p>
     </footer>
