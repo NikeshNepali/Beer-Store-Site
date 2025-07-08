@@ -15,3 +15,8 @@ Learend to import fonts from url.
 Learned to addres a html tag and design it.
 Learned how to use Css variable appropriately.
 Learned css animation, grid and media queries.
+
+# Reference.
+For this Project I used youtube tutorial from freecodecamp.org.
+For the images I used google to get the images.
+For the Website I have also taken reference from the official beer store.
