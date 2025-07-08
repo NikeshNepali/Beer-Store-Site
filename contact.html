@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="alcohol" content="Barhasinghe Beer">
+    <meta name="description" content="This page contains all the information about the beer">
+    <title>Barhasinghe Beer </title>
+    <link rel="icon" href="image/barahsinghe_logo.png" type="x-icon">
+    <link rel="stylesheet" href="css/nik.css">
+</head>
+
+<body>
+    <header class="header">
+        <h1 class="header__h1">Barhasinghe Beer</h1>
+        <!-- <nav aria-label="third"> -->
+        <nav class="header__nav">
+            <ul class="header__ul">
+                <li>
+                    <a href="home.html">Home</a>
+                </li>
+                <li>
+                    <a href="home.html#OurMenu">Menu</a>
+                </li>
+                <li>
+                    <a href="time.html">Hours</a>
+                </li>
+                <li>
+                    <a href="about.html">About</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <figure>
+        <img src="image/bbc.jpeg" alt="Tasety" title="Delicious" width="1000" height="649">
+        <figcaption class="offsceen">Enjoy The Can</figcaption>
+        </figure>
+    </section>
+
+    <main class="main">
+        <article class="main__article contact">
+            <h2 class="contact__h2">Our Location</h2>
+            <address><i>Bhaktapur,Gathaghar</i><br>Contact no 9812345678</address>
+        </article>
+
+        <article class="main__article">
+            <h2 class="contact__h2">Our Contact Form</h2>
+            <form class="contact__form">
+                <fieldset class="contact__fieldset">
+                    <legend class="offsceen">
+                      Type here
+                    </legend>
+                    <p class="contact__p">
+                    <label class="contact__label" for="fullname">Name:</label>
+                    <input class="contact__input" type="text" id="firstName" username="firstName" placeholder="Nikesh Nepali" autocomplete="on" required>
+                    </p>
+                    <p class="contact__p">
+                    <label class="contact__label" for="email">Email:</label>
+                    <input class="contact__input" type="email" id="email" username="email"placeholder="abc@gmail.com" required>
+                    </p>
+                    <p class="contact__p">
+                    <label class="contact__label" for="message">Your Message:</label><br>
+                    <textarea class="contact__textarea" name="message" id="message" placeholder="Type your Message" cols="20" rows="10"></textarea>
+                    </p>
+                </fieldset>
+                <button class="contact__button" type="submit">Submit</button>
+                <button class="contact__button" type ="reset">Reset</button>
+            </form>
+            <!-- <a href="home.html">Back to home</a> -->
+        </article>        
+    </main>
+
+    <footer class="footer">
+        <p><span class="nowrap">Copyright &copy;</span> <span class="nowrap">Barhasinghe Beer</span></p>
+    </footer>
+
+</body>
+</html>
