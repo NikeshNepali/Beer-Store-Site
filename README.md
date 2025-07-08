@@ -1,7 +1,6 @@
 # Web-Development-Projects
-I myself created this web page using only front end technology.
-I built this website watching the youtube tutorial of freecodcamp.org they had there own style of taco bell shop.
-I created my own BeerStore web page using Html and Css.
+I created this web page using only front end technology Html and CSS.
+I built this website watching the youtube tutorial of freecodcamp.org they had there own style of taco bell shop but I customized there tutorial in my own way and made this work.
 
 # Skills Learned from HTML.
 I was able to know how the meta data works in the html and css web pages.
