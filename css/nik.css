@@ -1,7 +1,6 @@
 /* Importing google fonts in css. */
 @import url('https://fonts.googleapis.com/css2?family=Fugaz+One&family=Nunito:wght@200;400&display=swap');
 /* CSS Reset */
-
 *,
 *::before,
 *::after{
@@ -10,6 +9,7 @@
     box-sizing: border-box;
 }
 
+/*  */
 img{
     display: block;
     max-width: 100%;
