@@ -29,8 +29,6 @@
 
 - Understanding and using HTML metadata effectively
 
-- Semantic tags like <header>, <footer>, <table>, and <section>
-
 - Embedding and positioning images within web layouts
 
 - Structuring tabular data with <thead>, <tbody>, and <tfoot>
