@@ -1,21 +1,61 @@
-# Web-Development-Projects
-I created this web page using only front end technology Html and CSS.
-I built this website watching the youtube tutorial of freecodcamp.org they had there own style of taco bell shop but I customized there tutorial in my own way and made this work.
+# 🌐 Beer Store Site
+## 📋 Overview
 
-# Skills Learned from HTML.
-I was able to know how the meta data works in the html and css web pages.
-I learend how to link html pages with each other and to link the css with html for styling.
-I learned how to use different html tags and how those works like.
-I learend about the table tag and how it is organized with header and footer.
-I learned how to place an image appropriately in html.
+- This is a frontend-only project built using HTML and CSS. The design is inspired by a FreeCodeCamp.org
+ tutorial, where I followed the basic structure but customized the layout, images, and styling to make it my own. The website simulates a fictional taco shop with a clean and responsive layout.
 
-# Skills Learned from CSS.
-Learend to import fonts from url.
-Learned to addres a html tag and design it.
-Learned how to use Css variable appropriately.
-Learned css animation, grid and media queries.
+## 🚀 Features
 
-# Reference.
-For this Project I used youtube tutorial from freecodecamp.org.
-For the images I used google to get the images.
-For the Website I have also taken reference from the official beer store.
+- Custom homepage with images, menu, and descriptions
+
+- Structured layout using HTML5 semantic tags
+
+- Responsive design using CSS Grid and media queries
+
+- Styling customization with CSS variables and Google Fonts
+
+- Light animations for UI interaction
+
+## 🛠️ Tech Stack
+
+- HTML
+
+- CSS (Flexbox, Grid, Animations, Variables, Media Queries)
+
+## 🧠 Skills Learned
+### 📘 HTML:
+
+- Linking multiple HTML pages and external CSS files
+
+- Understanding and using HTML metadata effectively
+
+- Semantic tags like <header>, <footer>, <table>, and <section>
+
+- Embedding and positioning images within web layouts
+
+- Structuring tabular data with <thead>, <tbody>, and <tfoot>
+
+### 🎨 CSS:
+
+- Importing fonts via @import from Google Fonts
+
+- Styling elements using class, ID, and element selectors
+
+- Using CSS variables for clean and maintainable styles
+
+- Implementing CSS animations and transitions
+
+- Building responsive layouts with Grid and media queries
+
+## 📁 Project Structure
+├── index.html               # Main homepage
+├── styles.css               # CSS styling file
+├── assets/                  # Images and media used in the site
+
+## 🔗 References
+
+- Tutorial: FreeCodeCamp.org YouTube
+
+- Images: Sourced from Google Images
+
+- Inspiration: Layout partially inspired by the official Beer Store website
