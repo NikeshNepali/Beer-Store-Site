@@ -49,9 +49,9 @@
 
 ├── index.html               # Main homepage
 
-├── styles.css               # CSS styling file
+├── css/               # CSS styling file
 
-├── assets/                  # Images and media used in the site
+├── image/                  # Images and media used in the site
 
 ## 🔗 References
 
