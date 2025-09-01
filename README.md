@@ -46,8 +46,11 @@
 - Building responsive layouts with Grid and media queries
 
 ## 📁 Project Structure
+
 ├── index.html               # Main homepage
+
 ├── styles.css               # CSS styling file
+
 ├── assets/                  # Images and media used in the site
 
 ## 🔗 References
