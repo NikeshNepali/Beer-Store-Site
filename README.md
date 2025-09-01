@@ -53,6 +53,14 @@
 
 ├── image/                  # Images and media used in the site
 
+## 📸 Screenshots
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/a3f84330-0360-4ce0-8ccd-5221180e9fa1" /> <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/fdf8fa85-4d94-4b7b-8033-46234f28d88e" /> <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/45ce68d5-90e0-4bc7-9890-f5e2d6915935" /> <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/05c8ce84-cbac-4731-a898-b0e7cb4839f8" /> <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/1882ea22-005f-426f-ba08-7621c0f37274" />
+
+
+
+
+
+
 ## 🔗 References
 
 - Tutorial: FreeCodeCamp.org YouTube
